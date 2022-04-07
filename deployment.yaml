@@ -13,8 +13,8 @@ spec:
         app: movie
     spec:
       containers:
-      - name: moviers
-        image: gcr.io/united-aura-322008/movie_rs
+      - name: movie-recommendation-engine
+        image: gcr.io/movie-recommendations-346418/movie-recommendation-engine@sha256:91a37881f6147e90728c2a01fe96b856b31e9f4e2ca48c9cac830a83e88a5d80
         ports:
         - containerPort: 8501
       
