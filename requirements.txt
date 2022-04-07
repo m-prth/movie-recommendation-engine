@@ -77,6 +77,7 @@ qtconsole==5.3.0
 QtPy==2.0.1
 requests==2.27.1
 requests2==2.16.0
+aws-sam-cli ==1.37.0
 scikit-learn==1.0.2
 scipy==1.7.3
 semver==2.13.0
